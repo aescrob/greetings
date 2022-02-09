@@ -1,3 +1,3 @@
-module github.com/aescrob/tutorial/greetings
+module github.com/aescrob/greetings
 
 go 1.17
